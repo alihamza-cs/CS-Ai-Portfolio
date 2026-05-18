@@ -11,7 +11,7 @@ Each linked project is self-contained, documented, and placement-ready.
 ChurnGuard — Explainable Customer Churn Prediction
 
 📌 Flagship AI Project
-🔗 https://github.com/your-username/churnguard
+🔗 (https://github.com/alihamza-cs/churnguard)
 
 End-to-end machine learning system for predicting customer churn
 
